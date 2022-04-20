@@ -8,7 +8,7 @@
   />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h5>
 <p align="left">
   <a href="https://instagram.com/dimstr__" target="blank"
     ><img
@@ -19,8 +19,36 @@
       width="40"
   /></a>
 </p>
+<h5 align="left">Framework:</h5>
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
 
-<h3 align="left">Languages:</h3>
+  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
+      alt="materialize"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
+
+<h5 align="left">Languages:</h5>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -59,34 +87,6 @@
     />
   </a>
 </p>
-<h3 align="left">Framework:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-      alt="materialize"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
 
 <p>
   <img
@@ -104,5 +104,3 @@
     alt="gtm-winter"
   />
 </p>
-
-
