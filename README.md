@@ -3,8 +3,8 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=gtm-winter&label=Profile%20views&color=0e75b6&style=flat"
-    alt="gtm-winter"
+    src="https://komarev.com/ghpvc/?username=GTM-Winter&label=Profile%20views&color=0e75b6&style=flat"
+    alt="GTM-Winter"
   />
 </p>
 
