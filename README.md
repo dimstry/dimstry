@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Dimas Triana 💙</h2>
-<h3 align="center">A passionate Front-end developer from Indonesia</h3>
+<h3 align="center">Excited student from Indonesia</h3>
 
 <p align="left">
   <img
