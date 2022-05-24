@@ -91,7 +91,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gtm-winter&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dimstry&show_icons=true&locale=en&layout=compact"
     alt="gtm-winter"
   />
 </p>
@@ -100,7 +100,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=gtm-winter&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=dimstry&show_icons=true&locale=en"
     alt="gtm-winter"
   />
 </p>
