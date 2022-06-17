@@ -79,7 +79,7 @@
   </a>
 </p>
 <p></p>
-<h3 align="left">another</h3>
+<h3 align="left">Another</h3>
 <p align="left">
   <a href="https://www.mysql.com/"
     target="_blank"
