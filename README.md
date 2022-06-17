@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimas Triana 💙</h1>
+<h2 align="center">Hi 👋, I'm Dimas Triana 💙</h2>
 <h3 align="center"> <img
   src="Developer.gif"
   width="30"
