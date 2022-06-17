@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dimas Triana 💙</h1>
 <h3 align="center"> <img
-  src="developer.gif"
-  width="45px"
+  src="Developer.gif"
+  width="30"
+  height="25"
   alt="dimstry" /> I'm a passionate student from Indonesia</h3>
 
 <p align="left">
