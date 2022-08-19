@@ -5,13 +5,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/dimas-triana-233172241">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.facebook.com/profile.php?id=100032103882689">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Dimstr_?t=b5FF0yrM72-zs1Ga81tY8Q&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -132,10 +132,10 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimstry&show_icons=true&locale=en" alt="dimstry" />
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimstry&" alt="dimstry" />
 </p>
