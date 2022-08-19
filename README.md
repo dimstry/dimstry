@@ -16,7 +16,7 @@
   </a>
 </div>
 <p align="center">
-  <a href="dimstry.me" target="_blank">
+  <a href="https://dimstry.vercel.app/" target="_blank">
     <img
     src="https://komarev.com/ghpvc/?username=GTM-Winter&label=Profile%20views&color=0e75b6&style=flat"
     alt="GTM-Winter"
