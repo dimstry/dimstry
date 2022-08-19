@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Dimas Triana 💙</h2>
+<h2 align="center">Hi ! <img src="https://c.tenor.com/Qy8-CYPUYNkAAAAi/freakmeaning-fre4k.gif" width="45px" />, I'm Dimas Triana 💙</h2>
 
 <div id="header" align="center">
   <img src="giphy.gif" width="100"/>
