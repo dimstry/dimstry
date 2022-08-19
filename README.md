@@ -1,15 +1,27 @@
 <h2 align="center">Hi 👋, I'm Dimas Triana 💙</h2>
-<h3 align="center"> <img
-  src="Developer.gif"
-  width="30"
-  height="25"
-  alt="dimstry" /> I'm a passionate student from Indonesia</h3>
 
-<p align="left">
-  <img
-  src="https://komarev.com/ghpvc/?username=GTM-Winter&label=Profile%20views&color=0e75b6&style=flat"
-  alt="GTM-Winter"
-  />
+<div id="header" align="center">
+  <img src="giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<p align="center">
+  <a href="dimstry.me" target="_blank">
+    <img
+    src="https://komarev.com/ghpvc/?username=GTM-Winter&label=Profile%20views&color=0e75b6&style=flat"
+    alt="GTM-Winter"
+    />
+  </a>
 </p>
 
 <h3 align="left">Follow me:</h3>
@@ -88,6 +100,13 @@
 <p></p>
 <h3 align="left">Another</h3>
 <p align="left">
+ <a href="https://www.mysql.com/"
+    target="_blank"
+    rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="mysql"
+    width="40"
+    height="40" />
+  </a>
   <a href="https://www.mysql.com/"
     target="_blank"
     rel="noreferrer">
