@@ -11,9 +11,6 @@
   <a href="https://www.facebook.com/profile.php?id=100032103882689">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook"/>
   </a>
-  <a href="https://twitter.com/Dimstr_?t=b5FF0yrM72-zs1Ga81tY8Q&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <p align="center">
   <a href="https://dimstry.vercel.app/" target="_blank">
