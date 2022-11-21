@@ -95,7 +95,7 @@
   </a>
 </p>
 <p></p>
-<h3 align="left">Another</h3>
+<h3 align="left">Other</h3>
 <p align="left">
   <a
     href="https://www.figma.com/" 
