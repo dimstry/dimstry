@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi ! <img src="https://c.tenor.com/Qy8-CYPUYNkAAAAi/freakmeaning-fre4k.gif" width="45px" />, I'm Dimas Triana 💙</h1>
 
 <div id="header" align="center">
@@ -56,6 +57,14 @@
     width="40"
     height="40" />
   </a>
+  <a href="https://www.typescriptlang.org/"
+    target="_blank"
+    rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    alt="ts"
+    width="40"
+    height="40" />
+  </a>
   <br>
   <a href="https://getbootstrap.com"
     target="_blank" rel="noreferrer">
@@ -81,9 +90,18 @@
   <a href="https://reactjs.org/"
     target="_blank"
     rel="noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
     width="40"
     height="40" />
+  </a>
+  <a 
+    href="https://reactnative.dev/" 
+    target="_blank" 
+    rel="noreferrer"> 
+    <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react native" 
+    width="40" 
+    height="40"/> 
   </a>
   <a 
     href="https://nextjs.org/" 
@@ -94,6 +112,7 @@
     width="40" 
     height="40"/> 
   </a>
+  
 </p>
 <p></p>
 <h3 align="left">Other</h3>
