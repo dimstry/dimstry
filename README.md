@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://dims-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://drive.google.com/uc?export=download&id=1AKC8FCqFyii-BWGLw9mfC6XpSoP5nxn-"><img src="https://img.shields.io/badge/Download_CV-0e75b6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
+  <a href="https://dims-dev.vercel.app/Dimas_Triana_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-0e75b6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
   <a href="https://www.linkedin.com/in/dimastriana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dimastriana03@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/dimstr__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -29,17 +29,34 @@ Fullstack Developer with **3+ years** of experience building production web apps
 - 🧪 Wrote **60+ end-to-end tests** in Playwright covering critical booking flows
 - 🎓 Studying Information Systems at Universitas Terbuka
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### [Asetly](https://asetly.app) — Personal Finance Platform
+<!-- Diisi otomatis dari dims-dev.vercel.app/projects.json. Edit di repo dims-dev, file data/projects.ts. -->
+<!-- PROJECTS:START -->
 
-Built solo: database schema, backend, web dashboard, and Android app.
+### [Asetly](https://www.asetly.app/) — Personal Finance Platform
 
+Web: asetly.app · Android: in Google Play closed testing
+
+- Built the entire product solo: database schema, backend, web dashboard, and Android app
 - Tracks bank, stock, and crypto assets in one place, with real-time crypto prices from the Indodax API
-- AI-powered portfolio allocation insights using OpenAI
-- Web app live with 10+ early users · Android app in Google Play closed testing
+- Generates AI-powered portfolio allocation insights using OpenAI
+- Web app live with 10+ early users; Android app built with React Native
 
-`Next.js` `React` `React Native` `Supabase` `PostgreSQL` `OpenAI`
+`Next.js` `React` `React Native` `Supabase (PostgreSQL)` `OpenAI`
+
+### [Minimart](https://minimart-app-orcin.vercel.app/) — Point of Sale & Inventory App
+
+Live demo: minimart-app-orcin.vercel.app · Code: github.com/dimstry/minimart-app
+
+- Rewrote my vocational school final project from PHP and MySQL to Next.js and Supabase, with a new UI
+- Moved business rules into PostgreSQL: stock triggers, an atomic no-oversell constraint, and row-level security
+- Built a keyboard-first cashier screen with barcode scanning, plus in-store barcode generation and printable labels
+- Public demo with one-click role logins; data regenerated nightly with pg_cron, database logic tested on PGlite
+
+`Next.js` `TypeScript` `Supabase (PostgreSQL)` `Tailwind CSS` `shadcn/ui`
+
+<!-- PROJECTS:END -->
 
 ## 🛠️ Tech Stack
 
