@@ -66,5 +66,9 @@ Built solo: database schema, backend, web dashboard, and Android app.
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-lac-rho-24.vercel.app/api?username=dimstry&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=dimstry&hide_border=true" alt="GitHub streak" />
 </p>
