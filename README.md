@@ -66,10 +66,5 @@ Built solo: database schema, backend, web dashboard, and Android app.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimstry&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimstry&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=dimstry&hide_border=true" alt="GitHub streak" />
 </p>
