@@ -46,13 +46,13 @@ Built solo: database schema, backend, web dashboard, and Android app.
 **Frontend & UI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,html,css,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
 </p>
 
 **Backend, Database & AI**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,firebase,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql,firebase" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
 </p>
 
