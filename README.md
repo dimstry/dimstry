@@ -56,6 +56,15 @@ Live demo: minimart-app-orcin.vercel.app · Code: github.com/dimstry/minimart-ap
 
 `Next.js` `TypeScript` `Supabase (PostgreSQL)` `Tailwind CSS` `shadcn/ui`
 
+### [RealCost](https://realcost-zeta.vercel.app/) — Opportunity Cost Calculator
+
+Live: realcost-zeta.vercel.app · Code: github.com/dimstry/realcost
+
+- Shows what a purchase would be worth if invested in deposits, bonds, or stocks, before and after inflation
+- Shareable links restore the same calculation with Open Graph previews; no backend, math unit-tested with Vitest
+
+`Next.js` `TypeScript` `Tailwind CSS` `Vitest`
+
 <!-- PROJECTS:END -->
 
 ## 🛠️ Tech Stack
